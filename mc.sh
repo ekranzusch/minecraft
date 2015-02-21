@@ -5,7 +5,7 @@
 # Author by: livErD69
 # Based off work by Talisker, assumes Ubuntu/Debian.
 # Creation date: 11/07/11
-# Update date: 9/06/14
+# Update date: 02/21/15
 ###
 . /etc/profile
 . ~/.profile
@@ -14,7 +14,7 @@ WORLD=yellowstone
 OLDWORLD=michigan
 WEBDIR=/var/www
 MCUSER=minecraft
-MCVER="1.8"
+MCVER="1.8.3"
 # Shouldn't need to edit these
 NEWWORLD="$WORLD"
 ARCHDIR=$WEBDIR/archive
